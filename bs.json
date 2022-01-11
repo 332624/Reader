@@ -2,7 +2,7 @@
 	"book_sources":	[{
 			"title":	"御书网",
 			"host":	"https://www.yushubo.com",
-			"query_url":	"https://www.yushubo.com/soso.html",
+			"query_url":	"https://www.yushubo.com/shu.html",
 			"query_method":	1,
 			"query_params":	"ss=%s",
 			"query_charset":	1,
